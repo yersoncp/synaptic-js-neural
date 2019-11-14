@@ -1,3 +1,6 @@
+/**
+ * https://github.com/wagenaartje/neataptic
+ */
 const { Architect, Trainer } = window.synaptic;
 
 var INPUT_LENGTH = 7;
